@@ -1,0 +1,32 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Virtual environment
+venv/
+.env
+
+# Django stuff:
+*.migrations/
+db.sqlite3
+*.pot
+*.pyc
+
+# VSCode
+.vscode/
+
+# Pytest
+htmlcov/
+.tox/
+
+# macOS
+.DS_Store
+
+# Redis dump
+dump.rdb
+
+# Static files
+staticfiles/
